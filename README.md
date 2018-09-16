@@ -57,5 +57,14 @@ This is a list of DevOps Resources that you can use to build your knowledge.
 
 ![](https://images-na.ssl-images-amazon.com/images/I/41pot3RcReL.jpg)
 
+----
+
+[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook/dp/B003YMNVC0/ref=sr_1_3?s=digital-text&ie=UTF8&qid=1537060833&sr=1-3&keywords=continuous+delivery)
+
+[Website](https://continuousdelivery.com/)
+
+![](https://images-na.ssl-images-amazon.com/images/I/51yF2SYUi7L._SX377_BO1,204,203,200_.jpg)
+
+
 ## Websites and Blogs
 - [DevOps Research and Assessment](https://devops-research.com/)
