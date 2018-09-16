@@ -5,7 +5,7 @@ This is a list of DevOps Resources that you can use to build your knowledge.
 ## Books
 [The Goal](https://www.amazon.com/Goal-Process-Ongoing-Improvement-Revised/dp/B000OZ0J2A/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=1537055758&sr=8-2) - Awesome on Audible
 
-[The Goal - Theory of Constraints Website](https://www.tocinstitute.org/the-goal-summary.html)
+[ Website](https://www.tocinstitute.org/the-goal-summary.html)
 
 ![](https://images-na.ssl-images-amazon.com/images/I/519C2Gz-v2L._SY346_.jpg)
 
@@ -32,11 +32,30 @@ This is a list of DevOps Resources that you can use to build your knowledge.
 
 [Value Stream Mapping](https://www.amazon.com/Value-Stream-Mapping-Organizational-Transformation-ebook/dp/B00EHIEJLM/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1537057333&sr=1-1&keywords=Value+Stream+Mapping)
 
-[Value Stream Mapping - Website](https://www.ksmartin.com/books/value-stream-mapping/)   - [SlideShow](https://www.slideshare.net/KarenMartinGroup/10-082013-slides)
+[Website](https://www.ksmartin.com/books/value-stream-mapping/)   - [Slideshow](https://www.slideshare.net/KarenMartinGroup/10-082013-slides)
 
 ![](https://images-na.ssl-images-amazon.com/images/I/51FnevxdJsL.jpg)
 
 ----
 
+[Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1537057832&sr=1-1&keywords=Accelerate)
+
+[Website](https://itrevolution.com/book/accelerate/)
+
+![](https://images-na.ssl-images-amazon.com/images/I/51fryQrNMSL.jpg)
+
+----
+[DevOps for the Modern Enterprise: Winning Practices to Transform Legacy IT Organizations](https://www.amazon.com/DevOps-Modern-Enterprise-Practices-Organizations-ebook/dp/B079MLJN1F/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1537058271&sr=1-1&keywords=DevOps+for+the+Modern+Enterprise)
+
+![](https://images-na.ssl-images-amazon.com/images/I/51Ge42a8IFL.jpg)
+
+[Website](https://itrevolution.com/book/devops_modern_enterprise/)
+
+----
+
+[Start and Scaling Devops in the Enterprise](https://www.amazon.com/Start-Scaling-Devops-Enterprise-Gruver-ebook/dp/B01M332BN2/ref=sr_1_fkmr1_2?s=digital-text&ie=UTF8&qid=1537058533&sr=1-2-fkmr1&keywords=Starting+and+Scaling+DevOps)
+
+![](https://images-na.ssl-images-amazon.com/images/I/41pot3RcReL.jpg)
+
 ## Websites and Blogs
--
+- [DevOps Research and Assessment](https://devops-research.com/)
